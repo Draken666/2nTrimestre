@@ -95,7 +95,7 @@ void loop() {
 
 }
 
-[ARDUINO FOTOS](https://github.com/Draken666/2nTrimestre/blob/main/Captura%20de%20pantalla%20de%202022-02-02%2012-28-33.png)
+[ARDUINO FOTOS](https://github.com/Draken666/ARDUINO/blob/main/IMG_20220202_133636.jpg)
 
 
 
